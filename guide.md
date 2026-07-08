@@ -168,7 +168,6 @@ This is a **living inventory** — small today, meant to grow as more images get
 
 *Backgrounds — Executive (from the main LVMH MRI template):*
 - `lvmh-bg-01-staircase.png` — the water/staircase texture used across most Cover/Content layouts
-- `lvmh-bg-02-alt.png` — second distinct texture, used across the Agenda-family layouts
 - `lvmh-bg-03.jpeg`, `lvmh-bg-04.jpg`, `lvmh-bg-05.jpg`, `lvmh-bg-06.jpg` — additional distinct photos pulled from the template's sample slides (descriptive renames still needed — check each visually and rename to something meaningful, e.g. `lvmh-bg-04-cityscape.jpg`, once reviewed)
 
 *Note on color variants:* the Dark Blue / Blue / Light Blue / Gradient versions of Cover/Content layouts are **not** separate image files — they're the same base photo with a color/luminance overlay on top. To recreate a color variant, apply a semi-transparent Navy or Dark Blue rectangle over the base image rather than hunting for a separate source file per color.
